@@ -1,2 +1,1 @@
-# tsconfig
 Personal generic tsconfig
