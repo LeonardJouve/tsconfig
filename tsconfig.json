@@ -30,10 +30,7 @@
         "verbatimModuleSyntax": true,
         "keyofStringsOnly": true,
         "noErrorTruncation": true,
-
-        // "declarationMap": true,
-        // "sourceMap": true,
-        // "inlineSources": true,
+        "strictNullChecks": true,
 
         // "module": ?,
         // "moduleResolution": ?,
