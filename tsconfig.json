@@ -1,8 +1,5 @@
 {
-    "include": ["src/**/*"],
     "compilerOptions": {
-        "rootDir": "src",
-        "outDir": "dist",
         "strict": true,
         "alwaysStrict": true,
         "allowUnreachableCode": false,
