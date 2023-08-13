@@ -3,7 +3,6 @@
     "compilerOptions": {
         "rootDir": "src",
         "outDir": "dist",
-        "types": ["node"],
         "strict": true,
         "alwaysStrict": true,
         "allowUnreachableCode": false,
@@ -28,13 +27,7 @@
         "forceConsistentCasingInFileNames": true,
         "isolatedModules": true,
         "verbatimModuleSyntax": true,
-        "keyofStringsOnly": true,
         "noErrorTruncation": true,
         "strictNullChecks": true,
-
-        // "module": ?,
-        // "moduleResolution": ?,
-        // "lib": ?,
-        // "target": ?,
     },
 }
